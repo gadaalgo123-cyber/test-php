@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>PHP Test</h1>
+    <p>This is a simple PHP test page.</p>
     <?php
         echo "Hello, World!";
     ?>
