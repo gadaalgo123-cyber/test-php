@@ -12,8 +12,16 @@
         echo "Hello, World!";
     ?> <!--penutup tag php -->
     <?php 
-//adalah sintax php
-    echo "ini adalah <br/> sintax php <br/> pertama saya "
+// luas persegi panjang
+   $panjang = 6;
+   $lebar =7;
+
+   $luas = $panjang * $lebar;
+
+   echo "luas persegi panjang adalah $luas <br/> ";
+   
+   echo 'luas persegi panjang adalah $luas <br/>';
+    echo 'luas persegi panjang adalah ' .$luas . ' <br/>';
     ?>
     
 </body>
