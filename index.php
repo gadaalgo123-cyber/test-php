@@ -10,6 +10,7 @@
     <p>This is a simple PHP test page.</p>
     <?php
         echo "Hello, World!";
+        
     ?>
     
 </body>
