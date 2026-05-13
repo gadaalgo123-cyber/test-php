@@ -10,10 +10,10 @@
     <p>This is a simple PHP test page.</p>
     <?php // pembuka tag php
         echo "Hello, World!";
-    ?> <--penutup tag php -->
+    ?> <!--penutup tag php -->
     <?php 
 //adalah sintax php
-    echo "ini adalah <br/> sintax php <br/> "
+    echo "ini adalah <br/> sintax php <br/> pertama saya "
     ?>
     
 </body>
